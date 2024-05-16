@@ -28,3 +28,4 @@ https://www.connaissancedesenergies.org/afp/airbus-devoile-lempreinte-carbone-de
 
 Hypothèses utilisées dans le calcul des émissions :
 - Pour le trajet en train : calcul de la distance sur google maps comme une voiture entre 2 villes (pas d'adresse précise)
+- Pour les trajets (aller-retours) des utilisateurs en voiture : c'est une voiture essence
